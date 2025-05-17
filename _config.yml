@@ -1,7 +1,7 @@
 title: Che Lin
 description: My personal homepage
 author: Che Lin
-avatar: /cat.png
+avatar: cat.png
 email: 19clin1@stu.edu.cn
 
 plugins:
@@ -32,7 +32,7 @@ exclude:
 twitter:
   username: ngzhio
   card: summary
-logo: logo.png
+logo: cat.png
 social:
   name: Shangzhi Huang
   links:
