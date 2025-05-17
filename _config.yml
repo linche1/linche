@@ -1,8 +1,8 @@
-title: Hamilton
-description: A minimal and beautiful Jekyll theme best for writing and note-taking.
-author: Shangzhi Huang
-avatar: /logo.png
-email: ngzhio@gmail.com
+title: Che Lin
+description: My personal homepage
+author: Che Lin
+avatar: /cat.png
+email: 19clin1@stu.edu.cn
 
 plugins:
   - jekyll-seo-tag
@@ -24,7 +24,7 @@ paginate: 10
 # ======
 exclude:
   - scripts/
-  - README.md
+  - about.md
   - jekyll-theme-hamilton.gemspec
 
 # Jekyll SEO Tag (Optional)
